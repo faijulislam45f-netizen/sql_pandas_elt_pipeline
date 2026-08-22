@@ -1,0 +1,12 @@
+# Environment and Secrets
+.env
+
+# Python Virtual Environment
+jup_env/
+
+# Caches and Checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Generated Charts
+*.png

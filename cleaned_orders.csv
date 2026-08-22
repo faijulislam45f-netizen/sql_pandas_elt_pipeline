@@ -1,0 +1,9 @@
+order_id,customer_name,product,price,quantity,order_date
+101,Rahul,Mouse,477.0,5,2026-08-05
+102,Rohit,Monitor,833.5714285714286,1,2026-08-05
+103,Vikram,Webcam,709.0,4,2026-08-03
+104,Vikram,USB Hub,1160.0,3,2026-08-02
+105,Vikram,USB Hub,960.0,4,2026-08-05
+117,Unknown Customer,Monitor,1161.0,1,2026-08-02
+119,Vikram,USB Hub,166.0,1,2026-08-02
+138,Pooja,Webcam,833.5714285714286,1,2026-08-02
