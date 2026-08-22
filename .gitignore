@@ -8,5 +8,4 @@ jup_env/
 __pycache__/
 .ipynb_checkpoints/
 
-# Generated Charts
-*.png
+
