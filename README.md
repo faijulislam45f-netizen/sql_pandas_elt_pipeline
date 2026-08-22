@@ -1,6 +1,6 @@
-# 🚀 SQL & Pandas ELT Pipeline (Global Standard)
+# 🚀 SQL & Pandas ETL Pipeline (Global Standard)
 
-A lightweight, secure, and resource-efficient Extract, Load, Transform (ELT) and data analysis pipeline built with Python, Pandas, and MariaDB, specifically optimized for local development environments like **Machine (Linux VM)**.
+A lightweight, secure, and resource-efficient Extract, Load, Transform (ETL) and data analysis pipeline built with Python, Pandas, and MariaDB, specifically optimized for local development environments like **Machine (Linux VM)**.
 
 ---
 
