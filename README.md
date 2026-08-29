@@ -1,4 +1,4 @@
-# 🚀 SQL & Pandas ETL Pipeline (Industry Standard)
+# SQL & Pandas ETL Pipeline (Industry Standard)
 
 A lightweight, secure, and resource-efficient Extract, Load, Transform (ETL) and data analysis pipeline built with Python, Pandas, and MariaDB, specifically optimized for local development environments like **Machine (Linux VM)**.
 
